@@ -1,0 +1,41 @@
+/* Comment Section */
+body{
+    background-color: #00CCFF;
+    color: white;
+    font-size: 21px;
+}
+
+div{
+    width: 256px;
+}
+
+p{
+    color: blue;
+}
+
+h1{
+    font-size: 70px;
+    color: red;
+}
+
+#top-section{
+    background: white;
+}
+
+#bottom-section{
+    background: yellow;
+}
+
+#explanation{
+    background: red;
+    width: 512px;
+    color: white;
+}
+
+/*
+    Box Method in CSS:
+        Margin: Pushes things away (from the item or 'box'). Creates empty space WITHOUT the background color.
+        Border: Creates a border around the 'box' to manipulate.
+        Has 3 other properies associated with it; border-width, border-color, and border-style.
+        Padding: Creates empty space WITH the background color.
+*/
